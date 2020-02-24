@@ -1,0 +1,272 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"2.8" 
+[PROJECT_DETAILS]
+"MASC447_ZF" "E:\zla_git\universal_template_machine\code\Project\v01" "E:\zla_git\universal_template_machine\code\Project\v01\v01.hwp" "M16C" "Renesas M16C Standard" "Application" "M16C/60" "M16C/62P" 
+[INFORMATION]
+"No project information available" 
+[TOOL_CHAIN]
+"Renesas M16C Standard Toolchain" "5.40.00" 
+[CONFIGURATIONS]
+"Debug" "E:\zla_git\universal_template_machine\code\Project\v01\Debug" 
+[BUILD_PHASES]
+"Renesas M16C Assembler" 1 
+"Renesas M16C C Compiler" 1 
+"Renesas M16C Configurator" 1 
+"Renesas M16C Jump table Composer" 1 
+"Renesas M16C Librarian" 1 
+"Renesas M16C Linker" 1 
+"Renesas M16C Stype Converter" 1 
+[TOOL_ENVIRONMENT]
+[EXTENSIONS]
+"Absolute file" "X30" 
+"Absolute list file" "ALS" 
+"Assembler error tag file" "ATG" 
+"Assembly include file" "INC" 
+"Assembly list file" "LST" 
+"Assembly source file" "A30" 
+"Branch Information file" "JIN" 
+"C header file" "H" 
+"C source file" "C" 
+"Configuration file" "CFG" 
+"Cross reference file" "XRF" 
+"Hex file" "HEX" 
+"ID file" "ID" 
+"Library file" "LIB" 
+"Library list file" "LLS" 
+"Linkage error tag file" "LTG" 
+"Linkage map file" "MAP" 
+"Preprocessed C source file" "I" 
+"Relocatable file" "R30" 
+"S-Record file" "MOT" 
+"Systemcall file" "MRC" 
+[FILE_GROUPS]
+"Absolute file" "BIN" "NONE" "" 
+"Absolute list file" "TEXT" "EDITOR" "" 
+"Assembler error tag file" "TEXT" "EDITOR" "" 
+"Assembly include file" "TEXT" "EDITOR" "" 
+"Assembly list file" "TEXT" "EDITOR" "" 
+"Assembly source file" "TEXT" "EDITOR" "" 
+"Branch Information file" "TEXT" "EDITOR" "" 
+"C header file" "TEXT" "EDITOR" "" 
+"C source file" "TEXT" "EDITOR" "" 
+"Configuration file" "TEXT" "EDITOR" "" 
+"Cross reference file" "TEXT" "EDITOR" "" 
+"Hex file" "TEXT" "EDITOR" "" 
+"ID file" "TEXT" "EDITOR" "" 
+"Library file" "BIN" "NONE" "" 
+"Library list file" "TEXT" "EDITOR" "" 
+"Linkage error tag file" "TEXT" "EDITOR" "" 
+"Linkage map file" "TEXT" "EDITOR" "" 
+"Preprocessed C source file" "TEXT" "EDITOR" "" 
+"Relocatable file" "BIN" "NONE" "" 
+"S-Record file" "TEXT" "EDITOR" "" 
+"Systemcall file" "TEXT" "EDITOR" "" 
+[ASSOCIATED_APPLICATIONS]
+[TOOLCHAIN_PHASE]
+"Renesas M16C Assembler" 
+"Renesas M16C C Compiler" 
+"Renesas M16C Configurator" 
+"Renesas M16C Jump table Composer" 
+"Renesas M16C Librarian" 
+"Renesas M16C Linker" 
+"Renesas M16C Stype Converter" 
+[UTILITY_PHASE]
+[CUSTOM_PHASES]
+[CUSTOM_PHASE_INPUT_GROUP]
+[CUSTOM_PHASE_OUTPUT_SYNTAX]
+[BUILD_ORDER]
+"Renesas M16C C Compiler" 1 
+"Renesas M16C Assembler" 1 
+"Renesas M16C Linker" 1 
+"Renesas M16C Stype Converter" 1 
+"Renesas M16C Librarian" 0 
+"Renesas M16C Configurator" 0 
+"Renesas M16C Jump table Composer" 0 
+[BUILD_PHASE_DETAILS]
+"Renesas M16C Assembler" "Assembly source file" 1 
+"Renesas M16C C Compiler" "C source file" 1 
+"Renesas M16C Configurator" "Configuration file" 0 
+"Renesas M16C Jump table Composer" "Systemcall file" 0 
+"Renesas M16C Librarian" "Relocatable file" 0 
+"Renesas M16C Linker" "Relocatable file" 0 
+"Renesas M16C Stype Converter" "Absolute file" 0 
+[BUILD_FILE_ORDER_Assembly source file]
+"Renesas M16C Assembler" 1 
+[BUILD_FILE_ORDER_C source file]
+"Renesas M16C C Compiler" 1 
+[SCRAP]
+"Project Generator Setup File" "" 
+[MAPPINGS]
+"Absolute file" "Renesas M16C Stype Converter" "Renesas M16C Linker" 
+"Assembly source file" "Renesas M16C Assembler" "Renesas M16C C Compiler" 
+"Relocatable file" "Renesas M16C Librarian" "Renesas M16C Assembler" 
+"Relocatable file" "Renesas M16C Librarian" "Renesas M16C C Compiler" 
+"Relocatable file" "Renesas M16C Linker" "Renesas M16C Assembler" 
+"Relocatable file" "Renesas M16C Linker" "Renesas M16C C Compiler" 
+"Relocatable file" "Renesas M16C Linker" "Renesas M16C Jump table Composer" 
+"Systemcall file" "Renesas M16C Jump table Composer" "Renesas M16C Assembler" 
+"Systemcall file" "Renesas M16C Jump table Composer" "Renesas M16C C Compiler" 
+[PROJECT_FILES]
+"E:\zla_git\universal_template_machine\code\Source\asm\ncrt0.a30" "User" "Assembly source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\asm\sect30.inc" "User" "Assembly include file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\action.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\barcode.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\common.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\communication.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\delay.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\eeprom.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\hardware.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\includes.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\initial.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\laser.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\math_tab.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\motor.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\motor_def.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\motor_servor.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\motor_xyaxsi.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\motor_yjaxsi.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\motor_zxaxsi.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\nopmove_speed.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\rfid.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\sfr62p.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\step_motor.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\system.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\tools.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\typedef.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\uart1.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\variables.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\watch.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\action.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\barcode.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\communication.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\delay.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\eeprom.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\hardware.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\includes.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\initial.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\laser.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\main.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\math_tab.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\motor.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\motor_xyaxsi.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\motor_yjaxsi.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\motor_zxaxsi.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\rfid.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\step_motor.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\system.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\tools.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\uart1.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\variables.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\watch.c" "User" "C source file" 2 
+[FOLDER]
+"Assembly include file" "Assembly include file" 
+"Assembly source file" "Assembly source file" 
+"C header file" "C header file" 
+"C source file" "C source file" 
+[GENERAL_DATA_PROJECT]
+"FDT_AutoConnect" "0" 
+"FDT_BaseDevice" "" 
+"FDT_BaudRate" "" 
+"FDT_BootMode" "FALSE" 
+"FDT_CKM" "0" 
+"FDT_CKP" "0" 
+"FDT_ClockMode" "0" 
+"FDT_ClockSync" "00000000" 
+"FDT_Comments" "" 
+"FDT_ConnectionResetSuppression" "FFFFFFFF" 
+"FDT_Device" "" 
+"FDT_DoReadbackVerification" "No" 
+"FDT_DoSecurityProtection" "" 
+"FDT_Frequency" "0.0000" 
+"FDT_Interface" "" 
+"FDT_InternalClock" "FALSE" 
+"FDT_KernelPath" "" 
+"FDT_KernelResident" "FALSE" 
+"FDT_McuId" "0" 
+"FDT_MessageLevel" "0" 
+"FDT_PinOutputs" "00000000" 
+"FDT_PinSettings" "00000000" 
+"FDT_Port" "" 
+"FDT_Protection" "0" 
+"FDT_Protocol" "" 
+"FDT_ReinterrogateGenericDevice" "No" 
+"FDT_ResetOnDisconnect" "No" 
+"FDT_ResetPinOutputs" "00000000" 
+"FDT_ResetPinSettings" "00000000" 
+"FDT_UPMPinSettings" "00000000" 
+"FDT_UseDefaultBaudRate" "FALSE" 
+"FDT_UseInternalKernel" "TRUE" 
+"FDT_UserPinOutputs" "00000000" 
+"FDT_UserPinSettings" "00000000" 
+"MAKEGEN_GENERATE_MAKEFILE_FOR" "0" 
+"MAKEGEN_MAKEFILE_FORMAT" "0" 
+"MAKEGEN_MAKEFILE_RELATIVITY" "1" 
+"MAKEGEN_SCAN_DEPENDENCIES_WHILST_BUILDING_MAKEFILE" "1" 
+"MAKEGEN_USE_STATIC_SUBCOMMAND_FILES" "0" 
+"USE_CUSTOM_LINKAGE_ORDER" "1" 
+[ON_DEMAND_COMPONENTS_LOADED]
+[SYNC_SESSION_NAMES]
+[SESSIONS]
+"DefaultSession" "E:\zla_git\universal_template_machine\code\Project\v01\DefaultSession.hsf" 0 
+[GENERAL_DATA_SESSION_DefaultSession]
+[OPTIONS_Debug_Renesas M16C Assembler]
+"Assembly source file" "0c691d508a4c7c10" 2 
+"E:\zla_git\universal_template_machine\code\Source\asm\ncrt0.a30" "0a7df06641c25d10" 2 
+[OPTIONS_Debug_Renesas M16C C Compiler]
+"C source file" "0c691d508a4c7c10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\action.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\barcode.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\communication.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\delay.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\eeprom.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\hardware.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\includes.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\initial.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\laser.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\main.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\math_tab.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\motor.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\motor_xyaxsi.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\motor_yjaxsi.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\motor_zxaxsi.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" "0f094638183e5d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\rfid.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\step_motor.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\system.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\tools.c" "0526f1e7183e5d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\uart1.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\variables.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\watch.c" "0b15531641c25d10" 1 
+[OPTIONS_Debug_Renesas M16C Configurator]
+"Single Shot" "0f094638183e5d10" 6 
+[OPTIONS_Debug_Renesas M16C Jump table Composer]
+"Single Shot" "0f094638183e5d10" 7 
+[OPTIONS_Debug_Renesas M16C Librarian]
+"Single Shot" "0f094638183e5d10" 5 
+[OPTIONS_Debug_Renesas M16C Linker]
+"Single Shot" "01057638183e5d10" 3 
+[OPTIONS_Debug_Renesas M16C Stype Converter]
+"Single Shot" "01057638183e5d10" 4 
+[OPTIONS_Debug]
+"" 0 
+"[V|VERSION|1] " 7 
+"[V|VERSION|1] [B|COMMAND|1] " 6 
+"[V|VERSION|1] [B|STARTUPLINK|1] [B|DEBUG|1] [B|MAP-S|1] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).x30^"] [S|INPUTLIBRARY|^"L=nc30lib^"] " 3 
+"[V|VERSION|1] [S|FORMAT|STYPE] [B|DATALENGTH|1] [S|OUTPUT|^"$(PROJDIR)\2010.mot^"]
+" 4 
+"[V|VERSION|1] [S|LIST|LM] [B|INSPECTOR|1] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [S|DEFINE|__HEAPSIZE__=0300H] [S|DEFINE|_KD_=1] [S|DEFINE|_Firmware_space=0600H] [S|DEFINE|__USTACKSIZE__=0300H] [S|DEFINE|__ISTACKSIZE__=0300H]" 2 
+"[V|VERSION|1] [S|MODE|CREATE|] [S|OUTPUT|^"$(CONFIGDIR)\$(PROJECTNAME).lib^"] " 5 
+"[V|VERSION|1] [S|OUTPUT|OBJECTCODE] [S|OUTPUTPATH|^"$(CONFIGDIR)\$(FILELEAF).r30^"] [B|INSPECTOR|1] " 1 
+[EXCLUDED_FILES_Debug]
+[LINKAGE_ORDER_Debug]
+"E:\zla_git\universal_template_machine\code\Project\v01\Debug\ncrt0.r30" 
+[GENERAL_DATA_CONFIGURATION_Debug]
+[GENERAL_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]
+[SESSION_DATA_CONFIGURATION_SESSION_Debug_DefaultSession]
+"MEMORY_MAPPING_OPTIONS" "" 
+[EXT_DEBUGGER_INFO]
+0 "" "" "" "" 
+[END]
