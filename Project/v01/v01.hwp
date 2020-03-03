@@ -129,6 +129,7 @@
 "E:\zla_git\universal_template_machine\code\Source\inc\motor_yjaxsi.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor_zxaxsi.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\nopmove_speed.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\pattern_check.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\rfid.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\sfr62p.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\step_motor.h" "User" "C header file" 2 
@@ -154,6 +155,7 @@
 "E:\zla_git\universal_template_machine\code\Source\src\motor_yjaxsi.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_zxaxsi.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\pattern_check.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\rfid.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\step_motor.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\system.c" "User" "C source file" 2 
@@ -233,6 +235,7 @@
 "E:\zla_git\universal_template_machine\code\Source\src\motor_yjaxsi.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_zxaxsi.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" "0f094638183e5d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\pattern_check.c" "0861ac21691f5d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\rfid.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\step_motor.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\system.c" "0b15531641c25d10" 1 
@@ -241,15 +244,15 @@
 "E:\zla_git\universal_template_machine\code\Source\src\variables.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\watch.c" "0b15531641c25d10" 1 
 [OPTIONS_Debug_Renesas M16C Configurator]
-"Single Shot" "0f094638183e5d10" 6 
+"Single Shot" "0861ac21691f5d10" 6 
 [OPTIONS_Debug_Renesas M16C Jump table Composer]
-"Single Shot" "0f094638183e5d10" 7 
+"Single Shot" "0861ac21691f5d10" 7 
 [OPTIONS_Debug_Renesas M16C Librarian]
-"Single Shot" "0f094638183e5d10" 5 
+"Single Shot" "0861ac21691f5d10" 5 
 [OPTIONS_Debug_Renesas M16C Linker]
-"Single Shot" "01057638183e5d10" 3 
+"Single Shot" "0da4dc21691f5d10" 3 
 [OPTIONS_Debug_Renesas M16C Stype Converter]
-"Single Shot" "01057638183e5d10" 4 
+"Single Shot" "0da4dc21691f5d10" 4 
 [OPTIONS_Debug]
 "" 0 
 "[V|VERSION|1] " 7 
