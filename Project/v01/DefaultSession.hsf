@@ -55,8 +55,9 @@
 [WINDOW_POSITION_STATE_DATA_VD3]
 [WINDOW_POSITION_STATE_DATA_VD4]
 [WINDOW_Z_ORDER]
-"E:\zla_git\universal_template_machine\code\Source\src\action.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\pattern_check.c" 
+"E:\zla_git\universal_template_machine\code\Source\inc\pattern_check.h" 
+"E:\zla_git\universal_template_machine\code\Source\src\action.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\initial.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\step_motor.c" 
 "E:\zla_git\universal_template_machine\code\Source\inc\common.h" 
