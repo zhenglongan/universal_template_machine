@@ -121,6 +121,7 @@
 "E:\zla_git\universal_template_machine\code\Source\inc\includes.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\initial.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\laser.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\machine_config.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\math_tab.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor_def.h" "User" "C header file" 2 
@@ -138,6 +139,7 @@
 "E:\zla_git\universal_template_machine\code\Source\inc\typedef.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\uart1.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\variables.h" "User" "C header file" 2 
+"E:\zla_git\universal_template_machine\code\Source\inc\version.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\watch.h" "User" "C header file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\action.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\barcode.c" "User" "C source file" 2 
@@ -148,6 +150,7 @@
 "E:\zla_git\universal_template_machine\code\Source\src\includes.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\initial.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\laser.c" "User" "C source file" 2 
+"E:\zla_git\universal_template_machine\code\Source\src\machine_config.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\main.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\math_tab.c" "User" "C source file" 2 
 "E:\zla_git\universal_template_machine\code\Source\src\motor.c" "User" "C source file" 2 
@@ -228,6 +231,7 @@
 "E:\zla_git\universal_template_machine\code\Source\src\includes.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\initial.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\laser.c" "0b15531641c25d10" 1 
+"E:\zla_git\universal_template_machine\code\Source\src\machine_config.c" "02056b97adb16d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\main.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\math_tab.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\motor.c" "0b15531641c25d10" 1 
@@ -244,15 +248,15 @@
 "E:\zla_git\universal_template_machine\code\Source\src\variables.c" "0b15531641c25d10" 1 
 "E:\zla_git\universal_template_machine\code\Source\src\watch.c" "0b15531641c25d10" 1 
 [OPTIONS_Debug_Renesas M16C Configurator]
-"Single Shot" "0861ac21691f5d10" 6 
+"Single Shot" "02056b97adb16d10" 6 
 [OPTIONS_Debug_Renesas M16C Jump table Composer]
-"Single Shot" "0861ac21691f5d10" 7 
+"Single Shot" "02056b97adb16d10" 7 
 [OPTIONS_Debug_Renesas M16C Librarian]
-"Single Shot" "0861ac21691f5d10" 5 
+"Single Shot" "02056b97adb16d10" 5 
 [OPTIONS_Debug_Renesas M16C Linker]
-"Single Shot" "0da4dc21691f5d10" 3 
+"Single Shot" "08ba9b97adb16d10" 3 
 [OPTIONS_Debug_Renesas M16C Stype Converter]
-"Single Shot" "0da4dc21691f5d10" 4 
+"Single Shot" "08ba9b97adb16d10" 4 
 [OPTIONS_Debug]
 "" 0 
 "[V|VERSION|1] " 7 
