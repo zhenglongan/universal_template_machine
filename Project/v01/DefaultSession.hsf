@@ -55,6 +55,8 @@
 [WINDOW_POSITION_STATE_DATA_VD3]
 [WINDOW_POSITION_STATE_DATA_VD4]
 [WINDOW_Z_ORDER]
+"E:\zla_git\universal_template_machine\code\Source\src\initial.c" 
+"E:\zla_git\universal_template_machine\code\Source\src\machine_config.c" 
 "E:\zla_git\universal_template_machine\code\Source\inc\machine_config.h" 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_0830.c" 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor_def_0830.h" 
