@@ -9,6 +9,7 @@
 [BREAKPOINTS]
 [OPEN_WORKSPACE_FILES]
 "E:\zla_git\universal_template_machine\code\Source\asm\sect30.inc" 
+"E:\zla_git\universal_template_machine\code\Source\inc\common.h" 
 "E:\zla_git\universal_template_machine\code\Source\inc\machine_config.h" 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor.h" 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor_def_0830.h" 
@@ -21,8 +22,10 @@
 "E:\zla_git\universal_template_machine\code\Source\src\motor_yjaxsi.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\rfid.c" 
+"E:\zla_git\universal_template_machine\code\Source\src\uart1.c" 
 [WORKSPACE_FILE_STATES]
-"E:\zla_git\universal_template_machine\code\Source\asm\sect30.inc" -9 -36 1079 483 1 12 
+"E:\zla_git\universal_template_machine\code\Source\asm\sect30.inc" 0 0 622 279 0 12 
+"E:\zla_git\universal_template_machine\code\Source\inc\common.h" 180 180 1361 390 0 13 
 "E:\zla_git\universal_template_machine\code\Source\inc\machine_config.h" 0 0 1559 615 0 2 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor.h" 30 30 941 318 0 6 
 "E:\zla_git\universal_template_machine\code\Source\inc\motor_def_0830.h" 30 30 1361 390 0 1 
@@ -35,6 +38,7 @@
 "E:\zla_git\universal_template_machine\code\Source\src\motor_yjaxsi.c" 60 60 544 169 0 5 
 "E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" 0 0 941 318 0 10 
 "E:\zla_git\universal_template_machine\code\Source\src\rfid.c" 90 90 941 318 0 8 
+"E:\zla_git\universal_template_machine\code\Source\src\uart1.c" -9 -36 1559 615 1 14 
 [LOADED_PROJECTS]
 "MASC447_ZF" 
 [END]
