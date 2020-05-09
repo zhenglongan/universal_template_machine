@@ -5,85 +5,85 @@ C:\Renesas\NC30WA\V540R00\bin\ln30.exe @E:\zla_git\universal_template_machine\co
 
 # LINK FILE INFORMATION
 ncrt0 (E:\zla_git\universal_template_machine\code\Project\v01\Debug\ncrt0.r30)
-	May  9 15:13:17 2020
+	May  9 16:13:28 2020
 
 action (E:\zla_git\universal_template_machine\code\Project\v01\Debug\action.r30)
-	May  9 15:12:48 2020
+	May  9 16:13:04 2020
 
 barcode (E:\zla_git\universal_template_machine\code\Project\v01\Debug\barcode.r30)
-	May  9 15:12:49 2020
+	May  9 16:13:05 2020
 
 communication (E:\zla_git\universal_template_machine\code\Project\v01\Debug\communication.r30)
-	May  9 15:12:51 2020
+	May  9 16:13:06 2020
 
 delay (E:\zla_git\universal_template_machine\code\Project\v01\Debug\delay.r30)
-	May  9 15:12:51 2020
+	May  9 16:13:07 2020
 
 eeprom (E:\zla_git\universal_template_machine\code\Project\v01\Debug\eeprom.r30)
-	May  9 15:12:52 2020
+	May  9 16:13:08 2020
 
 hardware (E:\zla_git\universal_template_machine\code\Project\v01\Debug\hardware.r30)
-	May  9 15:12:53 2020
+	May  9 16:13:09 2020
 
 includes (E:\zla_git\universal_template_machine\code\Project\v01\Debug\includes.r30)
-	May  9 15:12:54 2020
+	May  9 16:13:09 2020
 
 initial (E:\zla_git\universal_template_machine\code\Project\v01\Debug\initial.r30)
-	May  9 15:12:55 2020
+	May  9 16:13:10 2020
 
 laser (E:\zla_git\universal_template_machine\code\Project\v01\Debug\laser.r30)
-	May  9 15:12:56 2020
+	May  9 16:13:11 2020
 
 machine_config (E:\zla_git\universal_template_machine\code\Project\v01\Debug\machine_config.r30)
-	May  9 15:12:56 2020
+	May  9 16:13:12 2020
 
 main (E:\zla_git\universal_template_machine\code\Project\v01\Debug\main.r30)
-	May  9 15:12:58 2020
+	May  9 16:13:13 2020
 
 math_tab (E:\zla_git\universal_template_machine\code\Project\v01\Debug\math_tab.r30)
-	May  9 15:12:59 2020
+	May  9 16:13:14 2020
 
 motor_0830 (E:\zla_git\universal_template_machine\code\Project\v01\Debug\motor_0830.r30)
-	May  9 15:13:01 2020
+	May  9 16:13:15 2020
 
 motor_2530 (E:\zla_git\universal_template_machine\code\Project\v01\Debug\motor_2530.r30)
-	May  9 15:13:02 2020
+	May  9 16:13:16 2020
 
 motor_xyaxsi (E:\zla_git\universal_template_machine\code\Project\v01\Debug\motor_xyaxsi.r30)
-	May  9 15:13:03 2020
+	May  9 16:13:17 2020
 
 motor_yjaxsi (E:\zla_git\universal_template_machine\code\Project\v01\Debug\motor_yjaxsi.r30)
-	May  9 15:13:04 2020
+	May  9 16:13:18 2020
 
 motor_zxaxsi (E:\zla_git\universal_template_machine\code\Project\v01\Debug\motor_zxaxsi.r30)
-	May  9 15:13:05 2020
+	May  9 16:13:19 2020
 
 nopmove_speed (E:\zla_git\universal_template_machine\code\Project\v01\Debug\nopmove_speed.r30)
-	May  9 15:13:06 2020
+	May  9 16:13:19 2020
 
 pattern_check (E:\zla_git\universal_template_machine\code\Project\v01\Debug\pattern_check.r30)
-	May  9 15:13:07 2020
+	May  9 16:13:20 2020
 
 rfid (E:\zla_git\universal_template_machine\code\Project\v01\Debug\rfid.r30)
-	May  9 15:13:08 2020
+	May  9 16:13:21 2020
 
 step_motor (E:\zla_git\universal_template_machine\code\Project\v01\Debug\step_motor.r30)
-	May  9 15:13:09 2020
+	May  9 16:13:22 2020
 
 system (E:\zla_git\universal_template_machine\code\Project\v01\Debug\system.r30)
-	May  9 15:13:11 2020
+	May  9 16:13:24 2020
 
 tools (E:\zla_git\universal_template_machine\code\Project\v01\Debug\tools.r30)
-	May  9 15:13:12 2020
+	May  9 16:13:25 2020
 
 uart1 (E:\zla_git\universal_template_machine\code\Project\v01\Debug\uart1.r30)
-	May  9 15:13:13 2020
+	May  9 16:13:26 2020
 
 variables (E:\zla_git\universal_template_machine\code\Project\v01\Debug\variables.r30)
-	May  9 15:13:14 2020
+	May  9 16:13:26 2020
 
 watch (E:\zla_git\universal_template_machine\code\Project\v01\Debug\watch.r30)
-	May  9 15:13:16 2020
+	May  9 16:13:27 2020
 
 _i4div (C:\Renesas\NC30WA\V540R00\lib30\nc30lib.lib)
 	Dec  8 19:43:01 2005
@@ -209,16 +209,16 @@ program                          REL CODE    0D12F3 000000       ncrt0
                                  REL CODE    0E51AA 000B25 2     step_motor
                                  REL CODE    0E5CD0 0049F8 2     system
                                  REL CODE    0EA6C8 000294 2     tools
-                                 REL CODE    0EA95C 0001BD 2     uart1
-                                 REL CODE    0EAB1A 0006D7 2     watch
-                                 REL CODE    0EB1F2 000083 2     _i4div
-                                 REL CODE    0EB276 00004D 2     _i4divu
-                                 REL CODE    0EB2C4 000041 2     _i4i2div
-                                 REL CODE    0EB306 00004B 2     _i4modu
-                                 REL CODE    0EB352 00001C 2     _i4mulu
-                                 REL CODE    0EB36E 000035 2     bcopy
-                                 REL CODE    0EB3A4 000028 2     bzero
-program_S                        REL CODE    0EB3CC 000000       ncrt0
+                                 REL CODE    0EA95C 0001BB 2     uart1
+                                 REL CODE    0EAB18 0006D7 2     watch
+                                 REL CODE    0EB1F0 000083 2     _i4div
+                                 REL CODE    0EB274 00004D 2     _i4divu
+                                 REL CODE    0EB2C2 000041 2     _i4i2div
+                                 REL CODE    0EB304 00004B 2     _i4modu
+                                 REL CODE    0EB350 00001C 2     _i4mulu
+                                 REL CODE    0EB36C 000035 2     bcopy
+                                 REL CODE    0EB3A2 000028 2     bzero
+program_S                        REL CODE    0EB3CA 000000       ncrt0
 interrupt                        ABS CODE    0F9000 000000       ncrt0
                                  REL CODE    0F9000 000130       ncrt0
 vector                           ABS CODE    0F9200 0000C0       ncrt0
@@ -226,7 +226,7 @@ fvector                          REL CODE    0F92C0 000000       ncrt0
 # Total -------------------------------------------------------------------
                                      DATA           007A06(0031238) Byte(s)
                                      ROMDATA        0012F3(0004851) Byte(s)
-                                     CODE           01A2C9(0107209) Byte(s)
+                                     CODE           01A2C7(0107207) Byte(s)
 
 ##########################################
 # (3) GLOBAL LABEL INFORMATION           #
@@ -321,9 +321,9 @@ _StitchUpFlag      00745b  _StopCondition     0da618  _StopStatusFlag    007466
 _T_DIR_EXTEND      00756b  _TempStart_point   000d92  _Ud_i              000d60
 _Uq_i              000d62  _X2_tab            0d0c38  __WaitTime0us      0da742
 __WaitTime1us      0da748  __WaitTime2us      0da754  __WaitTime6ms      0da778
-___test            007166  ___testu16         00717a  __i4div            0eb1f2
-__i4divU           0eb276  __i4i2div          0eb2c4  __i4modU           0eb306
-__i4mulU           0eb352  __mbase            007346  __memt             00049c
+___test            007166  ___testu16         00717a  __i4div            0eb1f0
+__i4divU           0eb274  __i4i2div          0eb2c2  __i4modU           0eb304
+__i4mulU           0eb350  __mbase            007346  __memt             00049c
 __mnext            00734a  __msize            00734e  __pool             000494
 _acc_tactic        0de45c  _acctable          000972  _action_pause_ad   0d6c00
 _adtc_count        0074b2  _adtc_flag         0074b3  _after_trim_stop   00751c
@@ -337,10 +337,10 @@ _auto_function_f   007448  _auto_lock_flag    007446  _auto_select_fla   007447
 _back_endpoint     0d36b2  _back_from_check   007503  _back_startpoint   0d470a
 _bakeup_total_co   006e74  _barcode_config    0d718e  _barcode_config_   0074cc
 _barcode_scan      0d71be  _baseline_alarm_   007518  _baseline_alarm_   006e7e
-_baseline_detect   007535  _bcopy             0eb36e  _before_down_spe   006d2e
+_baseline_detect   007535  _bcopy             0eb36c  _before_down_spe   006d2e
 _before_nop_move   0075b0  _before_nopmove_   0074f3  _bobbin_change_d   00753e
 _bobbin_change_i   007543  _bobbin_change_s   007534  _brkdt_flag        0074b1
-_buzzer_control_   006fce  _bzero             0eb3a4  _calculate_angle   0d2a5a
+_buzzer_control_   006fce  _bzero             0eb3a2  _calculate_angle   0d2a5a
 _change_pat_last   007238  _change_pat_last   00723a  _check_dsp_curve   0e546e
 _check_dsp_versi   0e53da  _check_flag        007471  _check_footer_st   0d6592
 _check_x_action_   0e2670  _check_xy_action   0e26cc  _check_y_action_   0e269e
@@ -399,12 +399,12 @@ _init_machine_co   0dbc28  _init_mainmotor    0d58ba  _init_motor        0dc8a4
 _init_para_varia   0db864  _init_spi          0e51aa  _init_stepmotor_   0e53ce
 _init_system       0db024  _init_ta0          0da9e2  _init_tb0          0dc894
 _init_uart0        0d7270  _init_uart1_val    0ea95c  _init_variable     0daa8c
-_init_watch        0eab1a  _inpress           0075b4  _inpress_com       007453
+_init_watch        0eab18  _inpress           0075b4  _inpress_com       007453
 _inpress_follow_   006ebe  _inpress_follow_   006eb8  _inpress_follow_   0d0000
 _inpress_follow_   007547  _inpress_follow_   0d0048  _inpress_follow_   0d0288
 _inpress_follow_   00754f  _inpress_follow_   006eba  _inpress_follow_   0d006c
 _inpress_follow_   007548  _inpress_follow_   0d00b4  _inpress_up        0d18c8
-_int0_int          0df056  _int1_int          0eb17e  _int2_int          0eb1b0
+_int0_int          0df056  _int1_int          0eb17c  _int2_int          0eb1ae
 _int3_int          0df080  _iq_max_tester     000488  _jiting_flag       007501
 _keep_running_fo   0d1aee  _l                 007402  _laser_action_bu   006eca
 _laser_action_bu   007555  _laser_action_in   006ec4  _laser_action_in   006ec6
@@ -504,10 +504,10 @@ _stitch_counter    006cb0  _stitch_length_s   0d0e7d  _stitch_num        006cae
 _stop_flag         00746c  _stop_number       00746d  _stretch_action_   006e3a
 _stretch_action_   007504  _stretch_down_de   0074ec  _stretch_foot_en   0074dc
 _stretch_out_del   0074ea  _stretch_up_dela   0074eb  _super_pattern_f   007511
-_svpara_disp_buf   006d3a  _sys               007409  _sys_init_watch    0eb112
+_svpara_disp_buf   006d3a  _sys               007409  _sys_init_watch    0eb110
 _sys_para_addr_t   0d02d8  _sys_para_group1   0d1096  _sys_para_group1   0d1163
-_sys_para_group1   0d0efc  _sys_para_group2   0d0fc9  _sys_power_check   0eb1b4
-_sys_watch_ticks   0eabac  _system_clock_co   0da95c  _system_interrup   0da958
+_sys_para_group1   0d0efc  _sys_para_group2   0d0fc9  _sys_power_check   0eb1b2
+_sys_watch_ticks   0eabaa  _system_clock_co   0da95c  _system_interrup   0da958
 _system_interrup   0da954  _ta0_int           0dc38c  _tactic_flag       000486
 _tactic_flag_las   000484  _tail_sewing       0d64c6  _tail_sewing_fla   007541
 _tail_sewing_spe   007544  _tan_tab           0d07d2  _target_allx_ste   006e82

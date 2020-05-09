@@ -31,14 +31,14 @@
 "E:\zla_git\universal_template_machine\code\Source\inc\motor_def_0830.h" 30 30 1361 390 0 1 
 "E:\zla_git\universal_template_machine\code\Source\src\action.c" 120 120 941 318 0 9 
 "E:\zla_git\universal_template_machine\code\Source\src\barcode.c" 60 60 941 318 0 7 
-"E:\zla_git\universal_template_machine\code\Source\src\initial.c" 0 0 622 597 0 4 
+"E:\zla_git\universal_template_machine\code\Source\src\initial.c" -9 -36 1559 615 1 4 
 "E:\zla_git\universal_template_machine\code\Source\src\machine_config.c" 90 90 1361 390 0 3 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_0830.c" 30 30 941 318 0 0 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_2530.c" 30 30 941 318 0 11 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_yjaxsi.c" 60 60 544 169 0 5 
 "E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" 0 0 941 318 0 10 
 "E:\zla_git\universal_template_machine\code\Source\src\rfid.c" 90 90 941 318 0 8 
-"E:\zla_git\universal_template_machine\code\Source\src\uart1.c" -9 -36 1559 615 1 14 
+"E:\zla_git\universal_template_machine\code\Source\src\uart1.c" 0 0 1559 615 0 14 
 [LOADED_PROJECTS]
 "MASC447_ZF" 
 [END]
