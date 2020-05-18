@@ -72,13 +72,16 @@
 "{WK_TB00000029_SYSTEMTOOL}" "TOOLBAR 0" 59419 2 4 "0.00" 0 0 0 0 0 17 0 "" "0.0" 
 [WINDOW_POSITION_STATE_DATA_VD4]
 [WINDOW_Z_ORDER]
+"E:\zla_git\universal_template_machine\code\Source\src\tools.c" 
+"E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" 
+"E:\zla_git\universal_template_machine\code\Source\src\system.c" 
+"E:\zla_git\universal_template_machine\code\Source\inc\version.h" 
 "E:\zla_git\universal_template_machine\code\Source\src\initial.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\uart1.c" 
 "E:\zla_git\universal_template_machine\code\Source\asm\sect30.inc" 
 "E:\zla_git\universal_template_machine\code\Source\inc\common.h" 
 "E:\zla_git\universal_template_machine\code\Source\src\action.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_2530.c" 
-"E:\zla_git\universal_template_machine\code\Source\src\nopmove_speed.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\motor_0830.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\rfid.c" 
 "E:\zla_git\universal_template_machine\code\Source\src\barcode.c" 
